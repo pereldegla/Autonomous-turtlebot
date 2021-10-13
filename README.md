@@ -17,3 +17,5 @@ SolidWorks.
 The arena was designed to challenge the students that will be using it. Different obstacles (traffic lights, roundabout, crosswalks,
 level crossing, tunnel) were set up to emulate an urban environment. The robot was able to follow colored lines on the road, different
 colors represented different difficulty levels. The arena was created on ROS, from scratch, and replicated physically.
+
+Readme credits: mathiasroesler
