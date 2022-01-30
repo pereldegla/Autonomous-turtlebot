@@ -1,4 +1,5 @@
-<img src="https://raw.githubusercontent.com/cyberbotics/webots/released/docs/blog/images/turtlebot3.jpg" alt="alt text" width="350" height="350">
+<img src="https://raw.githubusercontent.com/cyberbotics/webots/released/docs/blog/images/turtlebot3.jpg" alt="alt text" width="350" height="350"><img src="https://user-images.githubusercontent.com/46407601/151697083-8481f871-2ceb-47d7-9445-0c9e3cfce866.jpg" alt="alt text" width="350" height="350">
+
 # TurtleBot3 Project
 This project is the final project for a group of Master students from the Science for Engineering (Sciences Pour l'Ingénieur) program. 
 The goal was to design and create a virtual and physical arena for the TurtleBot3 Burger robot.
